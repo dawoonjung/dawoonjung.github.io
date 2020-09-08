@@ -6,24 +6,22 @@ header:
 
 services:
     title: "Services"
-    text: "Lorem ipsum"
+    text: "사업 분야"
     section: services
     list:
-      - title: "E-Commerce"
-        desc: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Minima maxime quam architecto quo inventore harum ex magni, dicta impedit."
-        icon: fas fa-shopping-cart #find more at https://fontawesome.com/icons
-      - title: "Responsive Design"
-        desc: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Minima maxime quam architecto quo inventore harum ex magni, dicta impedit."
-        icon: fas fa-laptop       
-      - title: "[Markdown](https://en.wikipedia.org/wiki/Markdown)"
-        desc: "Your description here, full **Markdown** support"
-        icon: fab fa-markdown
+      - title: "조경석재"
+        desc: "조경과 석재의 최고 전문가 팀이 작업합니다."
+        icon: fas fa-tree #find more at https://fontawesome.com/icons
+      - title: "외부공사"
+        desc: "다양한 경험으로 고객님이 원하는 외부공사를 진행합니다."
+        icon: fas fa-hard-hat
+
 
 portfolio:
-    title: "Portfolio"
-    text: "Lorem ipsum dolor sit amet consectetur."
+    title: "제품 소개"
+    text: "다양한 제품을 보유하고 있습니다."
     section: portfolio
-    closebutton: "Close Project"
+    closebutton: "Close Product"
     
 
 timeline:
@@ -43,9 +41,9 @@ timeline:
         image: assets/img/timeline/2.jpg
         alt: 
         align: right
-      - title: "Jekyll Theme is created"
-        year: "2019"
-        desc: "Ravi Riley converted Agency, a Bootstrap-based theme, into a Jekyll theme. The Jekyll theme can be installed as a Ruby gem, or remotely. For more information, visit the documentation."
+      - title: "첫 홈페이지 제작"
+        year: "2015"
+        desc: "처음으로 온라인에 소개하는 자리를 만들었습니다."
         image: assets/img/timeline/3.jpg
         alt: image alt text
         #align: #default is left       
@@ -82,12 +80,12 @@ clients:
     
 team:
     title: "OUR AMAZING TEAM"
-    text: "Lorem ipsum dolor sit amet consectetur."
-    subtext: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aut eaque, laboriosam veritatis, quos non quis ad perspiciatis, totam corporis ea, alias ut unde. **Markdown** supported.
+    text: "최고의 전문가 집단"
+    subtext: 이렇게 경력이 많은 전문가로 이루어진 팀은 구성하기 쉽지 않습니다.
     section: team
     people:
-      - name: "Kay Garland"
-        role: "Lead Designer"
+      - name: "정해욱"
+        role: "CEO, 조경석재 전문가"
         image: assets/img/team/500x500.jpg
         social:
           - url: https://twitter.com
@@ -96,8 +94,8 @@ team:
             icon: fab fa-facebook-f
           - url: https://linkedin.com
             icon: fab fa-linkedin-in
-      - name: "Larry Parker"
-        role: "Lead Marketer"
+      - name: "황부장"
+        role: "조경 전문가"
         image: assets/img/team/2.jpg
         social:
           - url: https://twitter.com
@@ -106,8 +104,8 @@ team:
             icon: fab fa-facebook-f
           - url: https://linkedin.com
             icon: fab fa-linkedin-in
-      - name: "Diana Perterson"
-        role: "Lead Developer"
+      - name: "이부장"
+        role: "석재 전문가"
         image: assets/img/team/500x500.jpg
         social:
           - url: https://twitter.com
