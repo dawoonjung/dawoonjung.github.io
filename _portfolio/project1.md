@@ -7,7 +7,7 @@ alt: Pine Tree
 caption:
   title: 소나무
   subtitle: 어마어마하게 멋진 소나무들이 대기하고 있습니다.
-  thumbnail: https://raw.githubusercontent.com/BlackrockDigital/startbootstrap-agency/master/src/assets/img/portfolio/01-thumbnail.jpg
+  thumbnail: http://www.부림조경.com/bizdemo25520/component/board/board_6/u_image/41/20160205150818_543774963.jpg
 ---
 어마어마하게 멋진 소나무들이 대기하고 있습니다. 
 

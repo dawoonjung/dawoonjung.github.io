@@ -13,8 +13,11 @@ services:
         desc: "조경과 석재의 최고 전문가 팀이 작업합니다."
         icon: fas fa-tree #find more at https://fontawesome.com/icons
       - title: "외부공사"
-        desc: "다양한 경험으로 고객님이 원하는 외부공사를 진행합니다."
+        desc: "다양한 경험으로 고객님이 원하는 외부공사를 제안합니다."
         icon: fas fa-hard-hat
+      - title: "정원석 쌓기 및 폭포"
+        desc: "자연석으로 벽을 꾸미거나 인공 폭포를 설치합니다."
+        icon: fas fa-cubes
 
 
 portfolio:
@@ -60,33 +63,33 @@ about:
     text: "our story"
     section: about
 
-clients:
-    section: clients
-    max-height: 100px
-    horizontal-scrolling: "" #"yes/no"
-    list:
-      - title: "envato"
-        url: https://github.com/raviriley/agency-jekyll-theme
-        logo: assets/img/clients/envato.jpg
-      - title: "designmodo"
-        url: https://github.com/raviriley/agency-jekyll-theme
-        logo: assets/img/clients/designmodo.jpg
-      - title: "themeforest"
-        url: https://github.com/raviriley/agency-jekyll-theme
-        logo: assets/img/clients/themeforest.jpg
-      - title: "Creative Market"
-        url: https://github.com/raviriley/agency-jekyll-theme
-        logo: assets/img/clients/creative-market.jpg
+#clients:
+#    section: clients
+#    max-height: 100px
+#    horizontal-scrolling: "" #"yes/no"
+#    list:
+#      - title: "envato"
+#        url: https://github.com/raviriley/agency-jekyll-theme
+#        logo: assets/img/clients/envato.jpg
+#      - title: "designmodo"
+#        url: https://github.com/raviriley/agency-jekyll-theme
+#        logo: assets/img/clients/designmodo.jpg
+#      - title: "themeforest"
+#        url: https://github.com/raviriley/agency-jekyll-theme
+#        logo: assets/img/clients/themeforest.jpg
+#      - title: "Creative Market"
+#        url: https://github.com/raviriley/agency-jekyll-theme
+#        logo: assets/img/clients/creative-market.jpg
     
 team:
     title: "OUR AMAZING TEAM"
     text: "최고의 전문가 집단"
-    subtext: 이렇게 경력이 많은 전문가로 이루어진 팀은 구성하기 쉽지 않습니다.
+    subtext: 이렇게 경력이 많은 업계 최고의 전문가로 이루어진 팀은 구성하기 쉽지 않습니다.
     section: team
     people:
       - name: "정해욱"
         role: "CEO, 조경석재 전문가"
-        image: assets/img/team/500x500.jpg
+        image: assets/img/team/2.jpg
         social:
           - url: https://twitter.com
             icon: fab fa-twitter
@@ -117,7 +120,7 @@ team:
           
 contact:
     title: "Contact Us"
-    text: "Lorem ipsum or call 123456789"
+    text: "경기도 양주시 장흥면 교현리 142-8 or call 031-855-6186"
     section: contact
     
 footer:
