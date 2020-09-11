@@ -1,18 +1,16 @@
 ---
-title: Project Name
-subtitle: Lorem ipsum dolor sit amet consectetur.
-image: https://raw.githubusercontent.com/BlackrockDigital/startbootstrap-agency/master/src/assets/img/portfolio/02-full.jpg
+title: 관목, 잔디
+subtitle: 개나리, 진달래, 철쭉 등 아름다운 관목이 준비되어 있습니다.
+image: http://www.부림조경.com/bizdemo25520/component/board/board_10/u_image/29/20160205152317_874103081.jpg
 alt: Keep Exploring
 
 caption:
-  title: Explore
-  subtitle: Graphic Design
-  thumbnail: https://raw.githubusercontent.com/BlackrockDigital/startbootstrap-agency/master/src/assets/img/portfolio/02-thumbnail.jpg
+  title: 관목, 잔디
+  subtitle: 잔디와 꽃나무들
+  thumbnail: http://www.부림조경.com/bizdemo25520/component/board/board_10/u_image/22/20160205152126_548165039.jpg
 ---
-Use this area to describe your project. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Est blanditiis dolorem culpa incidunt minus dignissimos deserunt repellat aperiam quasi sunt officia expedita beatae cupiditate, maiores repudiandae, nostrum, reiciendis facere nemo!
+
 
 {:.list-inline}
-- Date: January 2017
-- Client: Explore
-- Category: Graphic Design
+- Category: 관목
 
